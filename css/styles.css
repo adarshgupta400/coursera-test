@@ -7,7 +7,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #807f7d;
+  background-color: #72706b;
   border-radius: 0;
   border: 0;
 }
@@ -94,7 +94,7 @@ padding-bottom: 20px;
 }
 .section {
 	box-shadow: 0 0 4px #7e8181;
-  background-color:#7c7878;    
+  background-color:#a58181;    
   border: 1px solid black;    
   position: relative;    
   margin-left: 10px;    
